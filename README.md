@@ -1,7 +1,5 @@
 # 📊 LinkedIn Carousels — Economics, Finance & Data Science
 
-Visual explainers on foundational concepts in causal inference, asset pricing, and quantitative finance. Each carousel is built in LaTeX (Beamer) at **4:5 portrait aspect ratio** (1080 × 1350 px) for LinkedIn document posts.
-
 ---
 
 ## Carousels
